@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "**/frontmatter.json": "jsonc",
+    "**/.frontmatter/config/*.json": "jsonc",
+    "pthread.h": "c",
+    "progress.h": "c"
+  }
+}
